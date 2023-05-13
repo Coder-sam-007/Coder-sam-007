@@ -17,6 +17,7 @@
 <br>
 
 ## My github activeness 🚀
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-sam-007&theme=tokyonight" alt="mystreak"/>
 
 ## My top languages 
@@ -24,7 +25,7 @@
 
 ## My github trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Coder-sam-007&theme=dracula&margin-w=15&margin-h=15&title=Joined2020,PullRequest,Repositories,Commits,PullRequest,Followers,Stars)
+![trophy](https://github-profile-trophy.vercel.app/?username=Coder-sam-007&theme=dracula&margin-w=15&margin-h=15&padding-w=15&padding-h=15&title=Joined2020,PullRequest,Repositories,Commits,PullRequest,Followers,Stars)
 	
 
 
